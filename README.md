@@ -52,7 +52,7 @@ File:
 
 ![Overview](overview.png)
 
-![Details](detailss.png)
+![Details](details.png)
 
 
 ## Author
