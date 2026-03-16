@@ -48,7 +48,11 @@ File:[Download Power BI Dashboard](ATM.pbix)
 
 
 ## Dashboard Preview
+![Home](home.png)
 
+![Overview](overview.png)
+
+![Details](details.png)
 
 
 
