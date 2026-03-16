@@ -26,7 +26,7 @@ SQL queries were used to analyze:
 - Transaction performance distribution
 - ATM uptime performance
 
-SQL file:
+SQL file:[View SQL Analysis Queries](atm_analysis_queries.sql)
 
 
 ## Power BI Dashboard
@@ -36,7 +36,7 @@ The Power BI dashboard provides insights into:
 - Profitability analysis
 - Operational metrics
 
-File:
+File:[Download Power BI Dashboard](ATM.pbix)
 
 
 
@@ -48,6 +48,7 @@ File:
 
 
 ## Dashboard Preview
+
 
 
 
