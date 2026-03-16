@@ -17,6 +17,12 @@ The dataset contains ATM operational metrics including:
 - Power BI – Dashboard creation and visualization
 - Microsoft Excel – Data source
 
+## Project Files
+
+- 📊 [Download Power BI Dashboard](ATM.pbix)
+- 📁 [Download Dataset](BOB_Source.xlsx)
+- 🧠 [View SQL Analysis Queries](atm_analysis_queries.sql)
+
 ## SQL Analysis
 SQL queries were used to analyze:
 - Total transaction volume by ATM
@@ -26,18 +32,12 @@ SQL queries were used to analyze:
 - Transaction performance distribution
 - ATM uptime performance
 
-SQL file:[View SQL Analysis Queries](atm_analysis_queries.sql)
-
-
 ## Power BI Dashboard
 The Power BI dashboard provides insights into:
 - ATM transaction trends
 - Revenue performance
 - Profitability analysis
 - Operational metrics
-
-File:[Download Power BI Dashboard](ATM.pbix)
-
 
 
 ## Key Insights
