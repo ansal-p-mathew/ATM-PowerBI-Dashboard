@@ -39,12 +39,12 @@ The Power BI dashboard provides insights into:
 - Profitability analysis
 - Operational metrics
 
-
 ## Key Insights
-- Identified high revenue generating ATMs
-- Analyzed cost efficiency across ATM operations
-- Evaluated ATM uptime performance
-- Classified ATMs based on transaction activity
+
+- Identified high revenue generating ATMs using SQL analysis.
+- Evaluated operational cost vs revenue to determine profitability.
+- Analyzed ATM uptime performance across locations.
+- Classified ATMs based on transaction volume and margin range.
 
 
 ## Dashboard Preview
