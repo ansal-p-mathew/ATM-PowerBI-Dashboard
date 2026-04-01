@@ -19,9 +19,9 @@ The dataset contains ATM operational metrics including:
 
 ## Project Files
 
-- 📊 [Download Power BI Dashboard](ATM.pbix)
-- 📁 [Download Dataset](BOB_Source.xlsx)
-- 🧠 [View SQL Analysis Queries](atm_analysis_queries.sql)
+-  [Download Power BI Dashboard](ATM.pbix)
+-  [Download Dataset](BOB_Source.xlsx)
+- [View SQL Analysis Queries](atm_analysis_queries.sql)
 
 ## SQL Analysis
 SQL queries were used to analyze:
