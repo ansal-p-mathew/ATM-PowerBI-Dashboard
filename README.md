@@ -1,4 +1,4 @@
-# ATM Performance Analysis (SQL + Power BI)
+# ATM Revenue & Operational Analysis (SQL + Power BI)
 
 ## Project Overview
 
