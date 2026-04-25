@@ -2,7 +2,7 @@
 
 ## Project Overview
 
-This project analyzes ATM operational data to understand transaction patterns, revenue generation, operational costs, and profitability. The analysis is structured using **Descriptive Analytics** (what happened) and **Diagnostic Analytics** (why it happened).
+This project analyzes ATM operational data to understand transaction patterns, revenue generation, operational costs, and profitability. The analysis is structured using **Descriptive Analytics** (what happened) and **Diagnostic Analytics** (why it happened)
 
 SQL was used for data exploration and root-cause analysis, while Power BI was used to build an interactive dashboard for visualization.
 
